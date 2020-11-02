@@ -1,0 +1,9 @@
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\bin\Debug\RelojDigital.exe.config
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\bin\Debug\RelojDigital.exe
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\bin\Debug\RelojDigital.pdb
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.Main.resources
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.Properties.Resources.resources
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.exe
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.pdb
