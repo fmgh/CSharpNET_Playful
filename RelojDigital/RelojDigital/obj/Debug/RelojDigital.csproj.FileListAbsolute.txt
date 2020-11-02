@@ -7,3 +7,4 @@ C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj
 C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.CoreCompileInputs.cache
 C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.exe
 C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.pdb
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csprojAssemblyReference.cache
