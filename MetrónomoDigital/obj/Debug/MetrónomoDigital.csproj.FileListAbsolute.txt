@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\bin\Debug\MetrónomoDigital.exe.config
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\bin\Debug\MetrónomoDigital.exe
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\bin\Debug\MetrónomoDigital.pdb
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.Principal.resources
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.Properties.Resources.resources
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.csproj.CopyComplete
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.exe
+C:\Users\fabia\source\repos\fmgh\CSharpNET_Playful\MetrónomoDigital\obj\Debug\MetrónomoDigital.pdb
